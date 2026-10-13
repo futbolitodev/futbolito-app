@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.futbolito.game",
+    "sha256_cert_fingerprints": ["F2:16:95:B2:49:7B:2C:EE:46:D5:5D:12:DA:06:5B:28:FD:7B:E5:DA:4E:71:33:06:12:CD:C1:29:60:CE:8E:38"]
+  }
+}]
